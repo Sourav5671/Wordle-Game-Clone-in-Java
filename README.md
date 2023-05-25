@@ -18,10 +18,10 @@ Scoring system to track your progress and encourage solving within a certain num
 Getting Started
 To run the Wordle game clone locally on your machine, follow these steps:
 
-Ensure you have Java installed on your system.
-Clone this repository to your local machine.
-Compile the Java source files using a Java compiler
-Run the application.
+1. Ensure you have Java installed on your system.
+2. Clone this repository to your local machine.
+3. Compile the Java source files using a Java compiler
+4. Run the application.
 
 Acknowledgements
 The original Wordle game concept and gameplay mechanics.
